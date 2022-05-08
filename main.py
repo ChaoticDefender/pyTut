@@ -1,2 +1,6 @@
 # Prints the message: "Hello World!"
-print("Hello World!")
+def main(msg):
+    print(msg)
+
+
+main("Greetings, distinguished gentlemen.")
